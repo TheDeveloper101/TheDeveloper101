@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDeveloper101)](https://github.com/TheDeveloper101/github-readme-stats)
+
+Hi There!!! Welcome to my GitHub :)
+
+Pronouns: they/she/xe
+
+Avid Java, Go and Rust programmer. I also dabble in Python and C++
+
