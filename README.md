@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDeveloper101)](https://github.com/TheDeveloper101/github-readme-stats)
 
-Hi There!!! Welcome to my GitHub :)
+Welcome to my GitHub :)
 
 Pronouns: they/she/xe
 
