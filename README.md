@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub :)
 
-Pronouns: they/she/xe
+Pronouns: he/they
 
 Avid Java, Go and Rust programmer. I also dabble in Python and C++
 
