@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub :)
 
-Pronouns: they/them
 
 Avid Java, Go and Rust programmer. I also dabble in Python and C++
 
