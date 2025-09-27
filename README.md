@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 Welcome to my GitHub :)
 
 
-Avid Java, Go and Rust programmer. I also dabble in Python and C++
+Avid Rust programmer, dabbling in other languages as well. Interested in compilers, formal verification and programming language theory.
 
